@@ -1,0 +1,11 @@
+{
+    "development": {
+        "hello": "Olá Dev!"
+    },
+    "production": {
+        "hello": "Olá Prod!"
+    },
+    "test": {
+        "hello": "Olá Test!"
+    }
+}
