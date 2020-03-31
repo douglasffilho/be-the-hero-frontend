@@ -107,3 +107,16 @@
   line-height: 1.313rem;
   font-size: 1rem;
 }
+
+.profile-container .page-control ul {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1.5rem;
+  list-style: none;
+}
+
+.profile-container .page-control ul li {
+  cursor: pointer;
+  background-color: transparent;
+  justify-content: center;
+}
